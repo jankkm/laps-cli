@@ -5,7 +5,7 @@ go 1.26.0
 require (
 	github.com/go-ldap/ldap/v3 v3.4.15
 	github.com/oiweiwei/go-msrpc v1.6.7
-	golang.org/x/crypto v0.58.0
+	golang.org/x/crypto v0.59.0
 	golang.org/x/term v0.48.0
 )
 
@@ -29,8 +29,8 @@ require (
 	github.com/oiweiwei/go-smb2.fork v1.0.2 // indirect
 	github.com/oiweiwei/gokrb5.fork/v9 v9.0.8 // indirect
 	github.com/rs/zerolog v1.35.1 // indirect
-	golang.org/x/net v0.60.0 // indirect
+	golang.org/x/net v0.62.0 // indirect
 	golang.org/x/sys v0.50.0 // indirect
-	golang.org/x/text v0.43.0 // indirect
+	golang.org/x/text v0.44.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
